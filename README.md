@@ -6,7 +6,7 @@ enp220s0np0
 enp26s0np0
 enp60s0np0
 enp77s0np0
-enps90np0
+enp94s0np0
 
 Runs:
 mlnx_qos -i <iface> --trust dscp
