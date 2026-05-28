@@ -7,7 +7,7 @@ INT_ETH=(
   enp26s0np0
   enp60s0np0
   enp77s0np0
-  enps90np0
+  enp94s0np0
 )
 
 MLX_DEVS=(
